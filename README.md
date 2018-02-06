@@ -31,3 +31,6 @@ Hex: #c0deed
 
 White
 Hex: #ffffff
+
+###### Extra
+Many companies provide exact specifications for working with their products.  While we won't be making anythign public, here is their info (Twitter Style Guide)[https://about.twitter.com/en_us/company/brand-resources.html]
