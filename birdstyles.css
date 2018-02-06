@@ -1,0 +1,18 @@
+body{
+    background-color: #c0deed;
+}
+main#feed{
+    width:800px;
+    height:2000px;
+    margin:0 auto;
+    padding: 8px;
+    border-radius: 40px;
+    background-color: #ffffff;
+}
+article.tweet{
+    width:80%;
+    margin:0 auto;
+    min-height: 200px;
+    border: 4px solid #c0deed;
+    border-radius: 16px;
+}
