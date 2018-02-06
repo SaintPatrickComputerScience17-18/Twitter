@@ -2,9 +2,6 @@
 
 The goal of this project is to recreate a twitter feed by completing the template for a tweet.  Focus at first on making the template work before you author a few examples.  For each html element make decisions about the values of its css properties.
 
-\# = id
-\. = class
-
 ### CSS Properties
 -  width and height
 -  background-color
