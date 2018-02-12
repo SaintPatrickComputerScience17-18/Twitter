@@ -24,16 +24,15 @@ There are lots of packages of icons on the internet to download and use in your 
 
 [Font Awesome Website](https://fontawesome.com/get-started)
 
-##### Code to be placed in the **head**
+##### Code to be placed in the head
 
 <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 
-##### Code to be placed in the **body**
-
-<i class="far fa-comments"></i>
-<i class="fas fa-retweet"></i>
-<i class="far fa-heart"></i>
-<i class="fas fa-share-square"></i>
+##### Code to be placed in the body
+&lt i class="far fa-comments"></i>**
+&lt i class="fas fa-retweet"></i>
+&lt i class="far fa-heart"></i>
+&lt i class="fas fa-share-square"></i>
 
 ### Official Twitter Color Palette
 Twitter Logo Blue
