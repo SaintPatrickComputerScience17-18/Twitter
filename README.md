@@ -19,6 +19,22 @@ The goal of this project is to recreate a twitter feed by completing the templat
 Twitter Dark Blue
 Hex: #0084b4
 
+### Twitter Icons
+There are lots of packages of icons on the internet to download and use in your projects.  Some are free and some are paid.  Font Awesome is one of the leaders in this niche, and they offer a free pack with everything we need.
+
+[Font Awesome Website](https://fontawesome.com/get-started)
+
+##### Code to be placed in the **head**
+
+<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+##### Code to be placed in the **body**
+
+<i class="far fa-comments"></i>
+<i class="fas fa-retweet"></i>
+<i class="far fa-heart"></i>
+<i class="fas fa-share-square"></i>
+
 ### Official Twitter Color Palette
 Twitter Logo Blue
 Hex: #00aced
@@ -32,5 +48,5 @@ Hex: #c0deed
 White
 Hex: #ffffff
 
-###### Extra
-Many companies provide exact specifications for working with their products.  While we won't be making anythign public, here is their info (Twitter Style Guide)[https://about.twitter.com/en_us/company/brand-resources.html]
+### Extra
+Many companies provide exact specifications for working with their products.  While we won't be making anythign public, here is their info [Twitter Style Guide](https://about.twitter.com/en_us/company/brand-resources.html)
